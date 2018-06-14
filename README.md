@@ -10,6 +10,7 @@ task1.js
 Пример
 
 > node task.js 7 10 2
+
 > 111
 
 task2.js
@@ -23,6 +24,7 @@ s in [a-z]
 Пример
 
 > node task.js abababbaba
+
 > abab
 
 
@@ -35,4 +37,5 @@ task3.js
 Пример
 
 > node task.js 10 8
+
 > 2
